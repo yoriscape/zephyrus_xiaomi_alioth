@@ -44,7 +44,9 @@ PRODUCT_PACKAGES += \
     AliothSystemUIOverlay \
     Mi11XOverlay \
     POCOF3Overlay \
-    RedmiK40Overlay
+    RedmiK40Overlay \
+    SettingsOverlayM2012K11AG \
+    SettingsOverlayM2012K11AI
 
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 30
