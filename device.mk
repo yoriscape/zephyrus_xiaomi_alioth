@@ -36,9 +36,10 @@ LOCAL_KERNEL := $(TARGET_KERNEL_DIR)/Image
 PRODUCT_COPY_FILES += $(LOCAL_KERNEL):kernel
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
+PRODUCT_PACKAGES += \
+    AliothDisplayOverlay \
+    AliothFrameowrksOverlay \
+    AliothSystemUIOverlay
 
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 30
