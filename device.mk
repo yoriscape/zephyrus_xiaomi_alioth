@@ -40,7 +40,10 @@ PRODUCT_PACKAGES += \
     AliothDisplayOverlay \
     AliothFrameowrksOverlay \
     AliothNFCOverlay \
-    AliothSystemUIOverlay
+    AliothSystemUIOverlay \
+    Mi11XOverlay \
+    POCOF3Overlay \
+    RedmiK40Overlay
 
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 30
