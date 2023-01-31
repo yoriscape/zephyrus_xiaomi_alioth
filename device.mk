@@ -40,6 +40,7 @@ PRODUCT_PACKAGES += \
     AliothDisplayOverlay \
     AliothFrameowrksOverlay \
     AliothNFCOverlay \
+    AliothSettingsOverlay \
     AliothSystemUIOverlay \
     Mi11XOverlay \
     POCOF3Overlay \
