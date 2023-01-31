@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+    Copyright (C) 2009 The Android Open Source Project
+    Copyright (C) 2023 StatiXOS
+    SPDX-License-Identifer: Apache-2.0
+-->
+
+<!-- These resources are around just to allow their values to be customized
+     for different hardware and product builds.  Do not translate. -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Fingerprint from stock ROM -->
+    <string name="config_stockFingerprint" translatable="false">POCO/alioth_global/alioth:12/SKQ1.211006.001/V13.0.6.0.SKHMIXM:user/release-keys</string>
+</resources>

@@ -46,7 +46,10 @@ PRODUCT_PACKAGES += \
     POCOF3Overlay \
     RedmiK40Overlay \
     SettingsOverlayM2012K11AG \
-    SettingsOverlayM2012K11AI
+    SettingsOverlayM2012K11AI \
+    StatiXFrameworkMi11X \
+    StatiXFrameworkPOCOF3 \
+    StatiXFrameworkRedmiK40
 
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 30
