@@ -6,7 +6,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/statix_alioth.mk
+    $(LOCAL_DIR)/alioth.mk
 
 COMMON_LUNCH_CHOICES := \
-    statix_alioth-user
+    alioth-user
+    alioth-userdebug
